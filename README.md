@@ -48,9 +48,3 @@
 </p>
 
 <br />
-
-<p align="center">
-  <a href="https://profile-crest.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Generated%20with-ProfileCrest-cc785c?style=for-the-badge&logo=github&logoColor=white" alt="ProfileCrest" />
-  </a>
-</p>
